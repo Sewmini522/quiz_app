@@ -2,6 +2,7 @@
 
 A comprehensive quiz application built using **Flutter** and developed in **Visual Studio Code**. 
 
+
 ## 📱 App Overview
 
 In this mobile app:
@@ -11,6 +12,7 @@ You choose a specific course from your syllabus.
 You answer 5 questions with a 30-second timer each.  
 You get instant feedback and your final score with grade.  
 The app covers 16 courses with 80+ questions!
+
 
 ## 🛠️ Technologies Used
 
@@ -25,6 +27,7 @@ The app covers 16 courses with 80+ questions!
 | Navigation         | For moving between screens    |  
 
 
+
 ▶️ How to Run the App
 
 — VS Code
@@ -33,6 +36,7 @@ Make sure you have the Flutter and Dart extensions installed
 Open lib/main.dart
 selectdevice id Chrome in below
 run without debugging
+
 
 
 ## Screenshorts
@@ -52,6 +56,8 @@ run without debugging
 ![image](https://github.com/user/repo/assets/xxxx)<img width="1918" height="1017" alt="Screenshot 2026-05-04 004335" src="https://github.com/user-attachments/assets/ff6d2ac7-854a-4d36-90a2-565d9c688299" />
 
 ![image](https://github.com/user/repo/assets/xxxx)<img width="1918" height="1017" alt="Screenshot 2026-05-04 004351" src="https://github.com/user-attachments/assets/01812804-34d8-49fb-ada1-20e65499ce56" />
+
+![image](https://github.com/user/repo/assets/xxxx)<img width="1916" height="908" alt="Screenshot 2026-05-04 004418" src="https://github.com/user-attachments/assets/d13df957-0ecb-4664-b3d0-d0f2359ff6ed" />
 
 ![image](https://github.com/user/repo/assets/xxxx)<img width="1918" height="1021" alt="Screenshot 2026-05-04 004142" src="https://github.com/user-attachments/assets/756807ed-be55-4735-94cf-b857a16dae43" />
 
